@@ -1,0 +1,3 @@
+DATABASE_USER=mysqlID
+DATABASE_PASSWORD=mysqlPassword
+DATABASE_NAME=wallet
